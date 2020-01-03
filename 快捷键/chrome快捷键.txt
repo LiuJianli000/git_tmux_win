@@ -27,3 +27,5 @@ tab   浏览下一个可点击项
 
 Ctrl+d   保存书签
 Ctrl+Shift+d   保存所有打开的页面到书签文件夹中
+
+alt+左右   prev/next
