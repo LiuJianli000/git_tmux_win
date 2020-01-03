@@ -1,0 +1,29 @@
+Ctrl+n   打开一个新的 chrome
+Ctrl+Shift+n   打开一个无痕的 chrome
+
+Ctrl+t   打开新页面
+Ctrl+w   删除新页面
+Ctrl+Shift+w   删除所有打开的页面
+Ctrl+e   搜索
+
+Ctrl+tab   切换页面
+Ctrl+Shift+tab   向左切换页面
+Ctrl+num   跳转到指定页面
+
+Ctrl+Shift+b   隐藏书签栏
+Ctrl+Shift+o   打开书签管理器
+Ctrl+h   打开历史记录
+Ctrl+j   打开下载记录
+
+Shift+Esc   打开 chrome 任务管理器
+
+Ctrl+f/F3   页面搜索
+
+Ctrl+Shift+j/F12   打开控制台
+
+Ctrl+l   调转到地址栏
+
+tab   浏览下一个可点击项
+
+Ctrl+d   保存书签
+Ctrl+Shift+d   保存所有打开的页面到书签文件夹中

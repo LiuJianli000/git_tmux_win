@@ -1,0 +1,25 @@
+win+b   打开隐藏图标
+
+win+d   最小化所有应用
+
+win+e   打开文件资源管理器
+
+win+q/s   打开搜索
+
+win+p   桌面投屏
+
+win+t   打开桌面底部应用
+
+win+i   打开 window 设置
+
+win+u   打开系统设置
+
+win+v   打开剪贴板
+
+win+x   显示系统选项
+
+win+number   快速打开桌面底部应用
+
+Ctrl+Shift+Esc   打开任务管理器
+
+
