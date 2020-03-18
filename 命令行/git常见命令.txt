@@ -48,6 +48,7 @@ git clean -f [file]    删除未监控的文件
 
 -------------------------------------------------------------------------------回退远程库版本
 
+git chekout origin [file]   回退远程仓库的某个文件
 git reflog   找到要回退的版本
 git reset --hard [版本hash]   回退版本
 git push -f   强制提交
