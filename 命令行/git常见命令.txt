@@ -17,11 +17,14 @@ git reset HEAD [file]   +   git checkout [file]   回退上面删除操作
 
 git rm --cached [file]   停止追踪指定文件，但该文件会保留在工作区
 git commit -m   +   git push   上面的操作加上这里的操作，删除远程的文件
-git commit --amend -m '注释'  修改注释
+git commit --amend -m '注释'   修改注释
+git commit -n '注释'   强制提交
 
 git mv [file] [file_rename]   修改文件名，并且将这个改名放入暂存区
 
 git clean   删除未监控的（untracked files）的文件
+
+git cherry-pick [commit hash]   挑拣某一次的提交
 
 -------------------------------------------------------------------------------分支操作
 
@@ -56,5 +59,6 @@ git reset --hard [版本hash]   回退版本
 git push -f   强制提交
 
 -------------------------------------------------------------------------------暂存文件
+
 git stash [file]   暂存文件
 git pop [file]   取出暂存的文件，输入文件路径后，自动生成文件编号
