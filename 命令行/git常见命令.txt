@@ -42,6 +42,8 @@ git push origin --delete [branch]   删除远程分支
 
 -------------------------------------------------------------------------------本地仓库回退
 
+git reset --soft HEAD^  回退本地的版本（回退本地的 commit）
+
 chenges to be commited:
 git reset head [file]   回退到 changes not staged for commit
 
